@@ -6,6 +6,6 @@
 ---
 
 ### Overview
-[<img src="https://raw.githubusercontent.com/robdrawspictures/forum_ipsem/main/Screenshot%202022-04-14%20at%2018.16.20.png" width="7500"/>](https://raw.githubusercontent.com/robdrawspictures/forum_ipsem/main/Screenshot%202022-04-14%20at%2018.16.20.png "Home page")
+[<img src="https://github.com/robdrawspictures/KoreanMovies/blob/main/Best%20Korean%20Movies%20Homepage.png?raw=true" width="750"/>](https://github.com/robdrawspictures/KoreanMovies/blob/main/Best%20Korean%20Movies%20Homepage.png?raw=true "Home page")
 
 Homework project to practice React. Displays a selection of my favourite Korean movies with a relative IMDB link.
